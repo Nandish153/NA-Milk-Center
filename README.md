@@ -21,5 +21,5 @@ You can download the latest APK from [releases](./apk/app-debug.apk).
 - [Any libraries you used]
 
 ## 👤 Author
-[Your Name] – [LinkedIn Profile](your-link)
+[Nandish Goud] – [LinkedIn Profile](your-link)
 
