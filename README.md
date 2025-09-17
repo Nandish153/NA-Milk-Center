@@ -1,25 +1,44 @@
-# 📱 MyApp (Android)
+# 🥛 Milk Center App – Android Application
 
-MyApp is an Android application that helps users [briefly describe the purpose, e.g., track expenses, manage tasks, etc.].
+💡 From manual registers to digital receipts – bringing milk centers into the digital era.
+
+## ✨ Overview
+Milk Center App is an Android application designed to help milk center owners manage daily milk collection efficiently.  
+It allows recording of milk entries, automatic calculations, and generating instant receipts for customers – reducing manual work and errors.
+
+---
 
 ## 🚀 Features
-- User-friendly interface
-- [Feature 1: e.g., Add, edit, and delete tasks]
-- [Feature 2: e.g., Generates monthly reports]
-- [Feature 3: e.g., Offline support]
+- 📋 Record daily milk entries (liters & customer details)  
+- 🧾 Generate receipts with **automatic calculation of total liters & amount**  
+- 📊 Maintain customer-wise history for easy tracking & reporting  
+- ⚡ Fast & user-friendly interface  
 
-## 📷 Screenshots
-(Add screenshots of your app here if possible)
+---
 
-## 📦 Download APK
-You can download the latest APK from [releases](./apk/app-debug.apk).
+## 📸 Screenshots
+*(Add your screenshots here in the `screenshots/` folder and embed them like below)*  
+
+| Home Screen | Receipt Screen |
+|-------------|----------------|
+| ![Home](screenshots/home.png) | ![Receipt](screenshots/receipt.png) |
+
+---
+
+## 📦 Download
+👉 [Download APK here](./apk/app-debug.apk)  
+*(or from the [Releases](../../releases) section)*
+
+---
 
 ## 🛠 Tech Stack
-- Android Studio
-- Java/Kotlin
-- XML (UI)
-- [Any libraries you used]
+- Android Studio  
+- Java/Kotlin  
+- XML UI  
 
-## 👤 Author
-[Nandish Goud] – [LinkedIn Profile](your-link)
+---
 
+## 🚀 Getting Started
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Nandish Goud/milk-center-app.git
